@@ -1,0 +1,12 @@
+/*RESET GLOBAL*/
+
+* {
+  margin: 0px;
+  padding: 0px;
+  box-sizing: border-box;
+}
+
+/*TOPO*/
+width: 100%;
+position: fixed;
+z-index: 1;
