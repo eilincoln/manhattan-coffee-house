@@ -1,5 +1,14 @@
 /*RESET GLOBAL*/
 
+:root {
+  --marrom-claro: #c4a47c;
+  --marrom-escuro: #604829;
+  --cinza-escuro: #666666;
+  --cinza-claro: #acacac;
+  --branco: #ffffff;
+  --preto: #000000;
+}
+
 * {
   margin: 0px;
   padding: 0px;
@@ -7,6 +16,3 @@
 }
 
 /*TOPO*/
-width: 100%;
-position: fixed;
-z-index: 1;
