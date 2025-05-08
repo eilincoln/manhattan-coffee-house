@@ -15,7 +15,7 @@
   box-sizing: border-box;
 }
 
-/*TOPO*/
+/********************************TOPO**********************************/
 
 .topo {
   position: fixed;
@@ -48,4 +48,28 @@
   background-color: #4b2e14; /* ou qualquer marrom escuro que combine */
   border-radius: 6px;
   box-shadow: 8px 9px 17px -2px rgba(0, 0, 0, 0.6);
+}
+
+/********************************container-parallax1**********************************/
+
+.container-parallax1 {
+  background-image: url("assets/parallax-imagem1.png");
+  position: relative;
+  background-position: center;
+  background-size: cover;
+  background-attachment: fixed;
+  height: 100vh;
+}
+
+.container-parallax1 h1 {
+  color: var(--branco);
+  text-align: center;
+  font-weight: 400;
+  font-family: "Fraunces";
+  font-size: 100px;
+
+  position: absolute;
+  top: 45%;
+  right: 0px;
+  left: 0px;
 }
