@@ -73,3 +73,23 @@
   right: 0px;
   left: 0px;
 }
+
+.secao-informacoes {
+  text-align: center;
+  padding: 70px 0px;
+  max-width: 1024px;
+  margin: 0 auto;
+}
+
+.container-com-texto h2 {
+  font-family: Oswald;
+  color: var(--marrom-claro);
+  margin-bottom: 15px;
+}
+
+.container-com-texto p {
+  font-family: Lato;
+  color: var(--cinza-escuro);
+  margin-bottom: 50px;
+  line-height: 2;
+}
