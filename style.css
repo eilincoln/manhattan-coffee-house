@@ -74,9 +74,14 @@
   left: 0px;
 }
 
+/********************************SECAO-INFORMAÇÕES**********************************/
+
 .secao-informacoes {
   text-align: center;
   padding: 70px 0px;
+}
+
+.container-com-texto {
   max-width: 1024px;
   margin: 0 auto;
 }
@@ -92,4 +97,32 @@
   color: var(--cinza-escuro);
   margin-bottom: 50px;
   line-height: 2;
+}
+
+/********************************SECAO-PARALLAX2**********************************/
+
+.container-parallax2 {
+  height: 500px;
+  background-image: url(assets/parallax-imagem2.jpg);
+  position: relative;
+  background-position: center;
+  background-size: cover;
+  background-attachment: fixed;
+}
+
+.container-parallax2 h3 {
+  position: absolute;
+  top: 50%;
+  right: 0px;
+  left: 0px;
+
+  font-size: 25px;
+  background-color: var(--marrom-escuro);
+  width: 500px;
+  margin: 0 auto;
+  color: var(--branco);
+  font-family: "Fraunces";
+  font-weight: 400;
+  font-style: italic;
+  padding: 10px;
 }
