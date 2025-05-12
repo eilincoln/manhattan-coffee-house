@@ -126,3 +126,36 @@
   font-style: italic;
   padding: 10px;
 }
+
+/********************************container-com-texto2**********************************/
+
+.container-com-texto2 {
+  margin-top: 50px;
+}
+
+/********************************container-parallax3**********************************/
+.container-parallax3 {
+  height: 400px;
+  background-image: url(assets/parallax-imagem3.jpg);
+  position: relative;
+  background-position: center;
+  background-size: cover;
+  background-attachment: fixed;
+}
+
+.container-parallax3 h3 {
+  position: absolute;
+  top: 45%;
+  right: 0px;
+  left: 0px;
+
+  font-size: 25px;
+  background-color: var(--marrom-escuro);
+  width: 500px;
+  margin: 0 auto;
+  color: var(--branco);
+  font-family: "Fraunces";
+  font-weight: 400;
+  font-style: italic;
+  padding: 10px;
+}
