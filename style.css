@@ -293,3 +293,36 @@
 .lista-horarios li p {
   color: #acacac;
 }
+
+/*-----------------------rodape**************************/
+
+.rodape {
+  position: relative;
+  padding: 20px 0;
+  line-height: 34px;
+  letter-spacing: 2px;
+  font-weight: 600;
+  font-family: "Lato", sans-serif;
+  text-align: center;
+  background-color: #000000;
+  color: #fff;
+}
+
+.rodape a {
+  color: #c4a47c;
+}
+
+.botao-seta a {
+  display: inline-block;
+  width: 60px;
+  height: 60px;
+  position: absolute;
+  bottom: 80px;
+  right: 50px;
+
+  background-image: url("assets/seta-para-cima.png");
+  background-position: center;
+  background-size: cover;
+  background-color: #c4a47c;
+  border-radius: 4px;
+}
