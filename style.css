@@ -78,7 +78,7 @@
 
 .secao-informacoes {
   text-align: center;
-  padding: 70px 0px;
+  /* padding: px 0px; */
 }
 
 .container-com-texto {
@@ -167,3 +167,54 @@
 }
 
 /********************************SECAO-CONTATO**********************************/
+
+.secao-contato {
+  position: relative;
+  background-image: url("assets/parallax-imagem4.png");
+  height: 120vh;
+}
+
+.secao-contato h2 {
+  width: 500px;
+  padding: 10px;
+  position: relative;
+  top: 10%;
+  right: 0;
+  left: 0;
+  margin: 0 auto;
+  font-size: 24px;
+  font-family: "Oswald", serif;
+  letter-spacing: 5px;
+  text-align: center;
+  color: #fff;
+  background-color: #604829;
+}
+
+.secao-contato iframe {
+  position: absolute;
+  max-width: 1024px;
+  height: 450px;
+  top: 25%;
+  left: 0;
+  right: 0;
+  margin: 0 auto;
+}
+
+.box-contatos {
+  width: 500px;
+  padding: 10px;
+  position: absolute;
+  bottom: 5%;
+  right: 0;
+  left: 0;
+  margin: auto;
+  background-color: #604829;
+}
+
+.box-contatos p {
+  color: #fff;
+  font-family: "Oswald", sans-serif;
+  line-height: 36px;
+  text-shadow: 0px 6px 8px #000000;
+  text-align: center;
+}
