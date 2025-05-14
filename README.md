@@ -1,2 +1,32 @@
-# manhattan-coffee-house
-O objetivo do projeto é ganhar mais autonomia e criar um site em HTML e CSS que possua listas, navegação, um topo fixo e o efeito parallax.  Nele o usuário consegue interagir com uma janela que mostra a página do Google Maps.
+# ☕ Manhattan - Coffee House
+
+Um projeto para uma cafeteria chamada _Manhattan - Coffee House_. Neste projeto foi estudado muito o conseito de position para poder posicionar os elementos na tela.
+
+---
+
+## 🧠 Conceitos Trabalhados
+
+- HTML
+- CSS
+  - Dentro do CSS, foi estudar o position
+- Estruturação para posicionamento.
+
+---
+
+## 🔍 Preview do Projeto
+
+![Imagem do Projeto](assets/screencapture-127-0-0-1-5500-index-html-2025-05-14-16_30_11.png)
+
+---
+
+## 🧱 Tecnologias Utilizadas
+
+- **HTML5**
+- **CSS3**
+
+---
+
+## 📄 Licença
+
+Este projeto está licenciado sob a MIT License.
+Você pode usar, modificar e distribuir como quiser. Criado para fins educacionais e de prática em desenvolvimento web.
