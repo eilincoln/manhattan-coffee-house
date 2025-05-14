@@ -1,6 +1,6 @@
 # ☕ Manhattan - Coffee House
 
-Um projeto para uma cafeteria chamada _Manhattan - Coffee House_. Neste projeto foi estudado muito o conseito de position para poder posicionar os elementos na tela.
+Projeto de uma cafeteria fictícia chamada _Manhattan - Coffee House_. Neste projeto, o principal foco foi estudar o conceito de `position` no CSS para posicionar elementos na tela de forma precisa.
 
 ---
 
@@ -8,8 +8,8 @@ Um projeto para uma cafeteria chamada _Manhattan - Coffee House_. Neste projeto 
 
 - HTML
 - CSS
-  - Dentro do CSS, foi estudar o position
-- Estruturação para posicionamento.
+  - Foco no uso da propriedade `position`
+- Estruturação de layout e posicionamento de elementos
 
 ---
 
@@ -28,5 +28,5 @@ Um projeto para uma cafeteria chamada _Manhattan - Coffee House_. Neste projeto 
 
 ## 📄 Licença
 
-Este projeto está licenciado sob a MIT License.
-Você pode usar, modificar e distribuir como quiser. Criado para fins educacionais e de prática em desenvolvimento web.
+Este projeto está licenciado sob a [Licença MIT](https://opensource.org/licenses/MIT).  
+Você pode usar, modificar e distribuir livremente. Criado para fins educacionais e prática em desenvolvimento web.
